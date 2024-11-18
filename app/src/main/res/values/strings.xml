@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Expandble ListView</string>
+
+
+    <string-array name="famous_people_array">
+        <item>Albert Einstein</item>
+        <item>Marie Curie</item>
+        <item>Leonardo da Vinci</item>
+        <item>Martin Luther King Jr.</item>
+        <item>Mother Teresa</item>
+        <item>William Shakespeare</item>
+        <item>Nelson Mandela</item>
+        <item>Isaac Newton</item>
+        <item>Mahatma Gandhi</item>
+        <item>Steve Jobs</item>
+    </string-array>
+
+    <string-array name="famous_people_array_subtitle">
+        <item>Albert Einstein was a theoretical physicist known for developing the theory of relativity, which revolutionized our understanding of space, time, and energy. His famous equation E=mc² changed the world of physics forever.</item>
+        <item>Marie Curie was a pioneering scientist who conducted groundbreaking research on radioactivity. She was the first woman to win a Nobel Prize and remains the only person to win Nobel Prizes in two different sciences (Physics and Chemistry).</item>
+        <item>Leonardo da Vinci was a Renaissance genius who excelled in art, science, and engineering. Known for masterpieces like the Mona Lisa and The Last Supper, he also made significant contributions to anatomy, physics, and invention.</item>
+        <item>Martin Luther King Jr. was a leader of the American civil rights movement, advocating for nonviolent resistance to racial segregation. His "I Have a Dream" speech remains one of the most iconic addresses in history.</item>
+        <item>Mother Teresa, a Catholic nun, dedicated her life to helping the poor, sick, and dying in Kolkata, India. She founded the Missionaries of Charity and was awarded the Nobel Peace Prize for her humanitarian work.</item>
+        <item>William Shakespeare, often regarded as the greatest playwright in the English language, wrote timeless works such as Hamlet, Macbeth, and Romeo and Juliet. His influence on literature and language is unparalleled.</item>
+        <item>Nelson Mandela was an anti-apartheid revolutionary who became the first black president of South Africa. He spent 27 years in prison for his fight against racial injustice and became a symbol of resilience and reconciliation.</item>
+        <item>Isaac Newton was a mathematician and physicist who formulated the laws of motion and universal gravitation. His work laid the foundation for classical mechanics and significantly advanced scientific knowledge.</item>
+        <item>Mahatma Gandhi was a leader of the Indian independence movement against British rule. He championed the philosophy of nonviolent resistance and inspired civil rights movements around the world.</item>
+        <item>Steve Jobs was the co-founder of Apple Inc. and a visionary in the tech industry. His innovations in personal computing, smartphones, and digital media transformed the way we interact with technology.</item>
+    </string-array>
+
+
+</resources>
